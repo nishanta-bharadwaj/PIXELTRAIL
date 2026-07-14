@@ -1,4 +1,4 @@
-# Pixel Trail
+# PIXELTRAIL
 
 **An endless, procedurally generated 2D action platformer built with Phaser 3 and React.**
 
