@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # PixelTrail
+=======
+# PIXELTRAIL
+>>>>>>> 1789f0ba6d849be7327490eda116651588eeaf13
 
 **PixelTrail** is an endless pixel-art action-runner game built using **Reddit Devvit** (Reddit's developer platform) and **Phaser 4/3** (compiled via Vite and Hono). It offers seamless, responsive play across both desktop web browsers and the native Reddit mobile application.
 
